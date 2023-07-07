@@ -121,11 +121,6 @@ aside img {
   width: 160px;
   height: 160px;
   border-radius: 50%;
-
-  border: 4px solid transparent;
-  background: linear-gradient(purple, pink, cyan, #ff1493, #ff69b4, #006fff)
-      padding-box,
-    linear-gradient(260deg purple, pink, cyan, #ff1493, #ff69b4, #006fff);
 }
 
 aside p {
